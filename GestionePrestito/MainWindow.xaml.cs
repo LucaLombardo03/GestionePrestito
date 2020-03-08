@@ -22,7 +22,7 @@ namespace GestionePrestito
     public partial class MainWindow : Window
     {
         public MainWindow()
-        {
+        { 
             InitializeComponent();
         }
         string combobox = "";
